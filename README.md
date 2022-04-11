@@ -77,5 +77,5 @@
 
   <hr>
   <p align='center'><i>
-  This README was built with ❤️ by <a href="https://subh0dip-portfolio.web.app/"> Subh/a>
+  This README was built with ❤️ by <a href="https://subh0dip-portfolio.web.app/"> Subh </a>
 </i></p>
