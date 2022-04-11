@@ -27,7 +27,7 @@
 
   ##  Project Links
    ##### Deployed Link on Heroku: https://warm-forest-12403.herokuapp.com/
-  ##### GitHub Repo link: https://github.com/imbingz/MERN-stack-ecommerce
+  ##### GitHub Repo link: https://github.com/subh-23/POUSHERRA-SANTINIKETAN-BASED-ECOMMERCE-PLATFORM/
 
   ## Screenshots-Demo
   <kbd>![screenshot-demo1](./client/public/demos/demo-1.gif)</kbd>
@@ -67,15 +67,15 @@
 
   ## Author Contact
   Contact the author with any questions!<br>
-  Github link: [imbingz](https://github.com/imbingz)<br>
-  Email: contact.bingz@gmail.com
+  Github link: [subh-23](https://github.com/subh-23)<br>
+  Email: subhodiproy281@gmail.com
 
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
 
-  Copyright © 2020 [BING Z](https://imbingz.github.io/Responsive-Website-Portfolio/)
+  Copyright © 2020 [BING Z](https://subh0dip-portfolio.web.app/)
 
   <hr>
   <p align='center'><i>
-  This README was built with ❤️ by <a href="https://imbingz.github.io/Responsive-Website-Portfolio/"> BING Z</a>
+  This README was built with ❤️ by <a href="https://subh0dip-portfolio.web.app/"> BING Z</a>
 </i></p>
