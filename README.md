@@ -5,10 +5,8 @@
 <hr>
 
   [![github-follow](https://img.shields.io/github/followers/imbingz?label=Follow&logoColor=purple&style=social)](https://github.com/subh-23)
-  [![project-languages-used](https://img.shields.io/github/languages/count/imbingz/MERN-stack-ecommerce)](https://github.com/subh-23/ POUSHERRA-SANTINIKETAN-BASED-ECOMMERCE-PLATFORM
-)
-  [![project-top-language](https://img.shields.io/github/languages/top/imbingz/MERN-stack-ecommerce?color=blueviolet)](https://github.com/subh-23/ POUSHERRA-SANTINIKETAN-BASED-ECOMMERCE-PLATFORM
-)
+  [![project-languages-used](https://img.shields.io/github/languages/count/imbingz/MERN-stack-ecommerce)](https://github.com/subh-23/POUSHERRA-SANTINIKETAN-BASED-ECOMMERCE-PLATFORM/)
+  [![project-top-language](https://img.shields.io/github/languages/top/imbingz/MERN-stack-ecommerce?color=blueviolet)](https://github.com/subh-23/POUSHERRA-SANTINIKETAN-BASED-ECOMMERCE-PLATFORM/)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
   [![node.js](https://img.shields.io/node/v/c?color=pink)](https://nodejs.org/en/)
   [![npm](https://img.shields.io/npm/v/npm?color=blue&logo=npm)](https://www.npmjs.com/package/inquirer)
@@ -75,9 +73,9 @@
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
 
-  Copyright © 2020 [BING Z](https://subh0dip-portfolio.web.app/)
+  Copyright © 2020 [Subh](https://subh0dip-portfolio.web.app/)
 
   <hr>
   <p align='center'><i>
-  This README was built with ❤️ by <a href="https://subh0dip-portfolio.web.app/"> BING Z</a>
+  This README was built with ❤️ by <a href="https://subh0dip-portfolio.web.app/"> Subh/a>
 </i></p>
